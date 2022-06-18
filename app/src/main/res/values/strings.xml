@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HeightAndWeightConverter</string>
+    <string name="weight_converter">Weight Converter</string>
+    <string name="lbs_to_kg">lbs to kg</string>
+</resources>
