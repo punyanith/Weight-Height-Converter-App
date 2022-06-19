@@ -5,7 +5,7 @@ Mobile App for weight and height conversion. This app will allow the user to con
 The purpose for creating this app is to learn and demostrate the use of the programming language Kotlin and the integrated development environment Android Studio
 
 
-[Software Demo Video](http://youtube.link.goes.here](https://youtu.be/saG7ddLtMVM)
+[Software Demo Video](https://youtu.be/saG7ddLtMVM)
 
 # Development Environment
 
@@ -16,7 +16,6 @@ Programming Language: Kotlin
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Tutorial Kart](https://www.tutorialkart.com/kotlin-android-tutorial/)
 * [Developers](https://developer.android.com/)
 * [Stack Overflow](https://stackoverflow.com/)
